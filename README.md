@@ -71,10 +71,10 @@ A Dashboard containing the following information was created to analyze the reve
 2 Additional Worksheets were used to create Year and Month Filters.
 
 #### Dark Theme: 
-![My Image](Revenue.png)
+![My Image](Screenshots/revenue.png)
 
 #### Light Theme:
-![My Image](Revenuelight.png)
+![My Image](Screenshots/revenuelight.png)
 
 
 ## Profit Analysis
@@ -87,7 +87,7 @@ A Dashboard containing the following information was created to analyze the prof
 
 As with Revenue Analysis, 2 Additional Worksheets were used to create Year and Month Filters.
 
-![My Image](Profit.png)
+![My Image](Screenshots/profit.png)
 
 
 
