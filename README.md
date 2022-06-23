@@ -41,7 +41,8 @@ Some of the commands i used are
 SELECT SUM(transactions.sales_amount) 
 FROM transactions 
 INNER JOIN date ON transactions.order_date=date.date 
-WHERE date.year=2020 AND date.month_name="January" AND (transactions.currency="INR\r" OR transactions.currency="USD\r")`
+WHERE date.year=2020 AND date.month_name="January" 
+AND (transactions.currency="INR\r" OR transactions.currency="USD\r")`
 ```
 
 #### Show distrinct product codes that were sold in chennai
